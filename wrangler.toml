@@ -1,0 +1,4 @@
+name = "stream-example"
+main = "main.js"
+
+compatibility_date = "2023-04-03"
